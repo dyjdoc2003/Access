@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<weibo id="1" emotion-type1="无" emotion-type2="无">
+<sentence id="1" opinionated="N">回复@王羊羊的微博:是，要的就是安静的生存环境，而且，到北京五环25分钟车程，938离我住处只有300米，饮食一条街更是北京饮食街的翻版，应有尽有。</sentence>
+<sentence id="2" opinionated="N">//@王羊羊的微博:廊坊是个好地方，紧邻京津，有点闹中取静的意思。</sentence>
+</weibo>
+<weibo id="2" emotion-type1="无">
+<sentence id="1" opinionated="N">录入。</sentence>
+<sentence id="2" opinionated="N">//@广州Les_go:我捻依出戏真系好多les噶最爱咯。</sentence>
+<sentence id="3" opinionated="N">好写实同时都好向往。</sentence>
+<sentence id="4" opinionated="N">难得一部反映les噶情感同面临噶困难噶一出粤语电影。</sentence>
+</weibo>
+<weibo id="3" emotion-type2="无">
+<sentence id="1" opinionated="N">QQ培训班群早盘操作提示:由于上周再收十字星,市场是下跌中继还是初步见底？</sentence>
+<sentence id="2" opinionated="N">本周将会有一结果。</sentence>
+<sentence id="3" opinionated="N">目前股指下破20 30周线的支撑已三周,5周线本周将与20 30周线形成死叉，显示中期调整仍在进行之中,市场重心下移的趋势难以改变,</sentence>
+</weibo>
+<weibo id="4" emotion-type="厌恶">
+<sentence id="1" opinionated="N">今儿老爸逮着我一顿狠念！</sentence>
+<sentence id="2" opinionated="Y" emotion-1-type="厌恶" emotion-2-type="无">念得我各种烦躁……</sentence>
+<sentence id="3" opinionated="Y" emotion-1-type="厌恶" emotion-2-type="无">我要不要考虑下降低回家的频率啊 回来一次吵一次= =真烦人！！！</sentence>
+</weibo>
+<weibo id="5" emotion-type="厌恶" emotion-type1="无" emotion-type2="无">
+<sentence id="1" opinionated="N">高智传媒董事长，???????????</sentence>
+<sentence id="2" opinionated="N">杂志社何智光先生（右）从摄影器材的发展史谈起，数码全面取代胶片，速度之快远超出想像，关于纸媒和数字化媒体的争论就好比当初胶片和数码的争论。</sentence>
+<sentence id="3" opinionated="N">从广告数据的投放看，杂志份额一直在缩小，传统媒体必须求变。</sentence>
+<sentence id="4" opinionated="N">摄影之友目前已开始做针对ipad的App，目前已有37万订阅量。</sentence>
+</weibo>
+</data>

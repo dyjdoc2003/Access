@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<weibo id="6" emotion-type1="厌恶" emotion-type2="无">
+<sentence id="1" opinionated="N">招聘:代写毕业论文 。</sentence>
+<sentence id="2" opinionated="N">论文大纲已拟好。</sentence>
+<sentence id="3" opinionated="N">参考资料齐全。</sentence>
+<sentence id="4" opinionated="N">字数一万以上。</sentence>
+<sentence id="5" opinionated="Y" emotion-1-type="厌恶" emotion-2-type="无">工资200 非诚勿扰 有意向请留言(妈的我是真的没空写这逼玩意儿了啊!)</sentence>
+</weibo>
+<weibo id="7" emotion-type1="厌恶" emotion-type2="无">
+<sentence id="1" opinionated="Y" emotion-1-type="厌恶" emotion-2-type="无">每天生活在欺骗中 又要言说别人的不忠 却也离不开 纠缠不清 不知为何 是利益呢还是利益呢还是利益呢 是假好人呢还是假好人呢还是假好人呢</sentence>
+</weibo>
+<weibo id="8" emotion-type1="高兴" emotion-type2="无">
+<sentence id="1" opinionated="Y" emotion-1-type="愤怒" emotion-2-type="无">[抓狂]我竟然被那个考了车牌几个月但一直没有开过车的老妈笑话我笨！</sentence>
+<sentence id="2" opinionated="N">说我玩得屎！</sentence>
+<sentence id="3" opinionated="N">谁知她自己上场…</sentence>
+<sentence id="4" opinionated="N">一局就拉倒！</sentence>
+<sentence id="5" opinionated="Y" emotion-1-type="高兴" emotion-2-type="无">哈哈哈哈哈哈哈哈！</sentence>
+<sentence id="6" opinionated="N">我好歹也玩了三局！</sentence>
+<sentence id="7" opinionated="Y" emotion-1-type="高兴" emotion-2-type="无">[耶]哈哈哈！</sentence>
+<sentence id="8" opinionated="N">你的车牌不愧是买回来的！</sentence>
+<sentence id="9" opinionated="N">她最后还说…</sentence>
+<sentence id="10" opinionated="N">开真车比这个好玩多了！</sentence>
+<sentence id="11" opinionated="N">我擦！！！</sentence>
+</weibo>
+</data>
